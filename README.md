@@ -1,1 +1,1 @@
-Practicing simple shell scripting in alx
+Practicing simple shell scripting in alx programming
