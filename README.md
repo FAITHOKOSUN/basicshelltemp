@@ -1,1 +1,1 @@
-Practicing simple shell scripting in alx programming
+In this project, we are practicing how to build custom linux shell.
